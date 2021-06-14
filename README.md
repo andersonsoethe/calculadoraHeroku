@@ -1,1 +1,1 @@
-# Disponivel par testes no [Heroku](https://calculadoraguto.herokuapp.com)
+# Disponivel para testes no [Heroku](https://calculadoraguto.herokuapp.com)
