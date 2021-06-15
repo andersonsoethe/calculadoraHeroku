@@ -66,6 +66,7 @@ export default class Calculator extends Component{
                 clearDisplay: !equals,
                 values
             })
+            //adicionar simboloda da operação no display
         }
     }
 
